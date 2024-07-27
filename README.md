@@ -47,11 +47,11 @@ Run the Development Server
 bash
 Copy code
 npm run dev
-The application will be available at http://localhost:3000.
+The application will be available at https://cravecartsite.netlify.app/
 
 Usage
 To use CraveCart:
 
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to https://cravecartsite.netlify.app/
 Browse the menu items, add them to your cart, and proceed to checkout and Payment
 Follow the on-screen instructions to complete your order.
