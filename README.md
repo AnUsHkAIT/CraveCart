@@ -8,7 +8,8 @@ It is a responsive food delivery web app inspired by Zomato. It provides a moder
 - **Real-Time Updates:** Latest menu items and order status.
 
 ## Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (222).png
+![Screenshot (222)](https://github.com/user-attachments/assets/8dedcb1a-e3c0-4785-8cfe-b155ad103d59)
+
 
 *Menu Page*
 
