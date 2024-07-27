@@ -10,8 +10,12 @@ It is a responsive food delivery web app inspired by Zomato. It provides a moder
 ## Screenshots
 ![Screenshot (222)](https://github.com/user-attachments/assets/8dedcb1a-e3c0-4785-8cfe-b155ad103d59)
 
+![Screenshot (223)](https://github.com/user-attachments/assets/f7fa2da8-0064-43cf-a8bd-9b11394932bb)
 
-*Menu Page*
+![Screenshot (225)](https://github.com/user-attachments/assets/cf45e1d0-9372-4f93-ab05-ce60ca999def)
+
+![Screenshot (227)](https://github.com/user-attachments/assets/13b21062-5bba-41c0-ad25-05c220043aa5)
+
 
 ## Setup Instructions
 
@@ -49,5 +53,5 @@ Usage
 To use CraveCart:
 
 Open your browser and navigate to http://localhost:3000.
-Browse the menu items, add them to your cart, and proceed to checkout.
+Browse the menu items, add them to your cart, and proceed to checkout and Payment
 Follow the on-screen instructions to complete your order.
